@@ -1,0 +1,2 @@
+# PokedexJS
+ Uma pokedex dinâmica
